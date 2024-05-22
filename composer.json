@@ -1,5 +1,5 @@
 {
-    "name": "getbrevo/brevo-php",
+    "name": "playox/brevo-php",
     "description": "Official Brevo provided RESTFul API V3 php library",
     "keywords": [
         "brevo",
